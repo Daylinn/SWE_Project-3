@@ -1,6 +1,7 @@
 Your group will meet once per week to address the issues such as 
 
-Who are the users (personas)?
+Who are the users (personas)? 
+
 What will each type of users use the software for (scenario)?
 What can each type of users do in the software (user stories)?
 In order to accommodate those things mentioned in above items, how can you make it possible (feature list)?
